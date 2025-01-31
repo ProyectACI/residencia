@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "css"
+		},
+		{
+			"path": "fonts"
+		},
+		{
+			"path": "icon"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
